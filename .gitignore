@@ -1,15 +1,15 @@
 ### Back-end ###
 
 # Maven
-target/
-!.mvn/wrapper/maven-wrapper.jar
+**/target/
+!**/.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
 ### Front-end ###
 
 # Dependencies
-frontend/node_modules
+**/frontend/node_modules
 .pnp
 .pnp.js
 
@@ -17,7 +17,7 @@ frontend/node_modules
 coverage
 
 # Production
-frontend/build
+**/frontend/build
 
 # Misc
 .DS_Store
