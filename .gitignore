@@ -6,6 +6,9 @@
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+# Misc
+application.properties
+
 ### Front-end ###
 
 # Dependencies
