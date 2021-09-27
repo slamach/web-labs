@@ -1,3 +1,5 @@
+# Replace this data with yours and remove .example
+
 spring.datasource.url=jdbc:postgresql://pg:5432/studs
 spring.datasource.username=s888888
 spring.datasource.password=qwerty
