@@ -1,7 +1,7 @@
-# Web development
-Projects I've done at ITMO University :school_satchel:
+# Веб-программирование
+Проекты, выполенные во время обучения в Университете ИТМО :school_satchel:
 
-- [Project 1](/web-lab1) `PHP`
-- [Project 2](/web-lab2) `Java (JSP)`
-- [Project 3](/web-lab3) `Java (JSF)`
-- [Project 4](/web-lab4) `Spring + React`
+- [Проект 1](/web-lab1) `PHP`
+- [Проект 2](/web-lab2) `Java (JSP)`
+- [Проект 3](/web-lab3) `Java (JSF)`
+- [Проект 4](/web-lab4) `Spring + React`
